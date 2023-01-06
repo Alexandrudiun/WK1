@@ -1,3 +1,4 @@
+DINU ALEXANDRU 17 LICEUL TEORETIC OVIDIUS CONSTANTA alexandrudinu04@gmail.com
 # Readme
 This program is a simple C program that prints a right-angled pyramid made of # characters. The number of rows in the pyramid is determined by a user input.
 
