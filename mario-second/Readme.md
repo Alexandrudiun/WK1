@@ -1,3 +1,4 @@
+DINU ALEXANDRU 17 LICEUL TEORETIC OVIDIUS CONSTANTA alexandrudinu04@gmail.com
 # readme
 This program is a solution to the problem of printing two pyramids with a certain number of lines (SIZE). The user inputs the number of lines for each pyramid and the program prints the desired output.
 
