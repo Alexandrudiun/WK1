@@ -1,3 +1,4 @@
+DINU ALEXANDRU 17 LICEUL TEORETIC OVIDIUS CONSTANTA alexandrudinu04@gmail.com
 # Introduction
 This program is designed to check if a credit card number is valid according to the [Luhn algorithm](https://en.wikipedia.org/wiki/Luhn_algorithm). It will also print the brand of the credit card if it is valid. The program accepts a single argument, the credit card number, as an input and prints either "INVALID" or the brand of the credit card as an output.
 # Implementation Details
