@@ -1,3 +1,4 @@
+DINU ALEXANDRU 17 LICEUL TEORETIC OVIDIUS CONSTANTA alexandrudinu04@gmail.com
 # README
 This program calculates the minimum number of coins needed to give a customer change.
 
